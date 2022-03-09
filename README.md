@@ -1,2 +1,2 @@
 # 3SIB-reforco
-Simulação uso gitflow
+Simulação uso gitflow com hub
