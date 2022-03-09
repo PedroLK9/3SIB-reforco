@@ -1,1 +1,1 @@
-#Coloque nessa pasta somente arquivos astah
+#Coloque nessa pasta somente arquivos .astah ou documentos de requisitos
